@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.radio-inline{
+  margin-left: 2em;
+}
+.page-title{
+  margin: top 400px;
+  padding-bottom: 50%;
+  
+  width: 182px;  
+  overflow: hidden;  
+  margin: auto;  
+  margin: 5 0 0 150px;  
+  padding: 5px;  
+  background-color:darkcyan;  
+  border-radius: 10px ; 
+  
+  
+}
+.u_email{
+
+padding-bottom: 1%;
+ color:gray;
+ font-size: 150%;
+
+}
+.u_password{
+
+  padding-bottom: 1%;
+   color:gray;
+   font-size: 150%;
+  
+  }
+
+  .mhead{
+    color: rgb(170, 21, 21);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .aboutus{
+    color:rgb(204, 24, 24);
+    font-family: fantasy;
+  }
+
+  .paragraphaboutus{
+    color-scheme: initial;
+    color: gold;
+    
+  }
+
+  .contact{
+    color:darkred;
+    background-size: 1000px;
+    font-size: 200%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .images{
+    margin-right: 1em;
+    size: 100%;
+;
+
+
+  }
+  .page-title {
+    margin: 12px;
+    text-align: center;
+  }
+  .paragraph{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+  }
+  .about{
+    color:darkred;
+    background-size: 1000px;
+    font-size: 200%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+
+  .para{
+    font-size: 15px;
+  }
+ 
